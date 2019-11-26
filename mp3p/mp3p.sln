@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mp3p", "mp3p\mp3p.vcproj", "{E2E1459D-7972-49B9-BEFD-5889A40EF9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E1459D-7972-49B9-BEFD-5889A40EF9CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2E1459D-7972-49B9-BEFD-5889A40EF9CD}.Debug|Win32.Build.0 = Debug|Win32
+		{E2E1459D-7972-49B9-BEFD-5889A40EF9CD}.Release|Win32.ActiveCfg = Release|Win32
+		{E2E1459D-7972-49B9-BEFD-5889A40EF9CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

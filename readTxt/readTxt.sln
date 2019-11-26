@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "readTxt", "readTxt\readTxt.vcproj", "{2BE47B75-543A-4DBB-9513-1C23E3BCE4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE47B75-543A-4DBB-9513-1C23E3BCE4B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BE47B75-543A-4DBB-9513-1C23E3BCE4B8}.Debug|Win32.Build.0 = Debug|Win32
+		{2BE47B75-543A-4DBB-9513-1C23E3BCE4B8}.Release|Win32.ActiveCfg = Release|Win32
+		{2BE47B75-543A-4DBB-9513-1C23E3BCE4B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
